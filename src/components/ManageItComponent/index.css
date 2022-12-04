@@ -1,0 +1,14 @@
+.manage-it-ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  margin-top: 70px;
+}
+.manage-li-div {
+  width: 32%;
+  height: 300px;
+}
+.manage-it-head {
+  color: #fff;
+  padding: 20px;
+}
